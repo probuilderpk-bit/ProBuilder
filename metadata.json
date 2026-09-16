@@ -1,0 +1,6 @@
+{
+  "name": "ProBuilder - AI & Digital Skills Education Platform",
+  "description": "Learn practical AI, master digital tools, and build your future with ProBuilder. Explore free courses, AI agent development, chatbots, automation, and digital skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
